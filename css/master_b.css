@@ -1,0 +1,77 @@
+#u945
+{
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u971
+{
+	background-color: #FFE97C;
+	border-radius: 200px;
+}
+
+#u972,#u966,#u964,#u962
+{
+	background-color: transparent;
+}
+
+#u947
+{
+	background-color: #FFFFFF;
+}
+
+#u961
+{
+	background-color: #00C7FF;
+}
+
+#u968-4,#u969-4,#u970-4,#u946-4,#u974-4
+{
+	vertical-align: top;
+	display: block;
+}
+
+#u944,#u975
+{
+	background-color: #0454A0;
+}
+
+#u976-4
+{
+	color: #FFFFFF;
+	line-height: 12px;
+	background-color: transparent;
+	font-size: 10px;
+	text-align: center;
+}
+
+@media (min-width: 324px)
+{
+	#u945
+	{
+		background-image: url("../images/10410137_10153545735627945_5291013599558656276_n.jpg");
+	}
+
+	#u944_align_to_page,#u961_align_to_page
+	{
+		max-width: 960px;
+	}
+
+}
+
+@media (max-width: 323px)
+{
+	#u945
+	{
+		background-image: url("../images/10410137_10153545735627945_5291013599558656276_n-u104-fr.jpg");
+	}
+
+	#u944_align_to_page,#u947_align_to_page,#u961_align_to_page
+	{
+		max-width: 323px;
+	}
+
+}
+

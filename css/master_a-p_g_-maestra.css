@@ -1,0 +1,52 @@
+#u185
+{
+	background-color: #0454A0;
+}
+
+#u104
+{
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u169
+{
+	background-color: #FFFFFF;
+}
+
+#u175-4
+{
+	vertical-align: top;
+	display: block;
+}
+
+@media (min-width: 324px)
+{
+	#u185_align_to_page
+	{
+		max-width: 960px;
+	}
+
+	#u104
+	{
+		background-image: url("../images/10410137_10153545735627945_5291013599558656276_n.jpg");
+	}
+
+}
+
+@media (max-width: 323px)
+{
+	#u104
+	{
+		background-image: url("../images/10410137_10153545735627945_5291013599558656276_n-u104-fr.jpg");
+	}
+
+	#u185_align_to_page,#u169_align_to_page
+	{
+		max-width: 323px;
+	}
+
+}
+
